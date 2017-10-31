@@ -1,8 +1,6 @@
-# Larvel-5.4-Toastr
+# LaraToastr
 
-Toastr Notifications for rappasoft/laravel-5-boilerplate https://github.com/rappasoft/laravel-5-boilerplate
-
-Adds Toastr notifications for the above mentioned app. Not ready for a pull yet and would like users of the laravel-5-boilerplate to give it a try and help get this up to par.
+A full featured Laravel 5x Toastr Notification Service
 
 ## Laravel App Drop-in Service
 
